@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769552575072",
+    "project_id": "mostrans-9c584",
+    "storage_bucket": "mostrans-9c584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769552575072:android:d6e1c016f7d5943d8b3105",
+        "android_client_info": {
+          "package_name": "com.example.mostrans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19cfd-Jz3GZWogpNTUdb5hE8hd97gN3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
